@@ -1,7 +1,5 @@
 # Simple Credit Card Fraud Detection
 
-![CI](https://github.com/dguo97/simple-credit-card-fraud-detection/actions/workflows/ci.yml/badge.svg)
-
 A small, self-contained fraud detector that combines unsupervised anomaly
 detection with a supervised classifier:
 
