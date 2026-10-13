@@ -7,8 +7,10 @@ venv/
 .pytest_cache/
 .DS_Store
 
-# trained models and generated plots
+# trained models and plots generated in the project root
+# (the plots in docs/ are committed on purpose)
 *.joblib
 *.pkl
-confusion_matrix.png
-pr_curve.png
+/confusion_matrix.png
+/pr_curve.png
+/calibration.png
